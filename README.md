@@ -1,4 +1,4 @@
-# Hi, I'm Rohit 👋
+# Hi, I'm Varsha 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Full+Stack+Developer;Backend+%26+API+Engineer;Turning+Business+Ideas+into+Scalable+Web+Products;Learning+DevOps+%26+Cloud;Always+Building+Something+New" alt="Typing SVG" />
